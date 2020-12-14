@@ -23,9 +23,18 @@ GIVEN a note-taking application
 WHEN I open the Note Taker
 ** 
 THEN I am presented with a landing page with a link to a notes page
-**
+** 
 WHEN I click on the link to the notes page
 **
+pull up previous server demo
+
+** 
+
+get server up and running
+USE final star wars app
+
+
+
 THEN I am presented with a page with existing notes listed in the left-hand column, plus empty fields to enter a new note title and the note’s text in the right-hand column
 **
 WHEN I enter a new note title and the note’s text
@@ -74,6 +83,24 @@ The following API routes should be created:
 
 
 ## Bonus
+
+Opposite of
+
+app.delete for route
+
+send up note to delete
+
+params L@@k at final star wars params
+
+read database, parse it
+
+match and delete on they want to delete
+
+resave res.json whole db
+
+similar to post, extra step query params
+
+
 
 You haven’t learned how to handle DELETE requests, but this application has that functionality in the front end. As a bonus, see if you can add the DELETE route to the application using the following guideline:
 
