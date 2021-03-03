@@ -5,7 +5,7 @@ This app was designed to take quick notes for daily use.
 
 Basic app to add and delete notes for everyday note taking.  This was built using Express.
 
-![alt text](public/assets/pictures/AlwaysBeCoding.png)
+![Express-Notes](public/assets/pictures/AlwaysBeCoding.png)
 
 ## Project Description
 
