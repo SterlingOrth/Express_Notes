@@ -7,8 +7,6 @@ Basic app to add and delete notes for everyday note taking.  This was built usin
 
 ![Express-Notes](public/assets/pictures/AlwaysBeCoding.png)
 
-## Project Description
-
 ## Resources
 
 - Express
